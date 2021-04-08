@@ -1,2 +1,2 @@
 # GameOfLife
-Conway's Game Of Life in Pygame
+My implmentation of Conway's Game Of Life in Pygame
